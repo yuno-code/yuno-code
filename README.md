@@ -36,7 +36,7 @@ Passionate about building native experiences for Apple platforms:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuno-code&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuno-code&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
 
 ## 💼 Let's Connect
 
