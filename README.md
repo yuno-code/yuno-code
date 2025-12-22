@@ -19,7 +19,7 @@
 
 Software Engineer specializing in **Full-Stack Development** and **Swift/Native Mobile & macOS Applications**
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Web**: React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
@@ -39,7 +39,7 @@ Software Engineer specializing in **Full-Stack Development** and **Swift/Native 
 - **CI/CD**: GitHub Actions, Xcode Cloud, Jenkins
 - **Testing**: Jest, Cypress, XCTest, Quick/Nimble
 
-## 🍎 Swift & Apple Ecosystem
+## Swift & Apple Ecosystem
 
 Passionate about building native experiences for Apple platforms:
 - **iOS Development**: SwiftUI, UIKit, Core Animation, Push Notifications
@@ -47,18 +47,18 @@ Passionate about building native experiences for Apple platforms:
 - **watchOS & tvOS**: Companion apps and Apple TV experiences
 - **Apple Frameworks**: CloudKit, HealthKit, Core ML, ARKit
 
-## 🔧 Current Focus
+## Current Focus
 
 - Building scalable full-stack applications
 - Exploring SwiftUI advanced patterns and animations  
 - Contributing to open-source Swift packages
 - Mobile-first responsive web design
 
-## 💼 Let's Connect
+## Let's Connect
 
-- 💬 Ask me about full-stack development, Swift/iOS, or system design
-- 📧 Open to collaboration on interesting projects
-- 🌟 Always learning and sharing knowledge
+- Ask me about full-stack development, Swift/iOS, or system design
+- Open to collaboration on interesting projects
+- Always learning and sharing knowledge
 
 ---
 
