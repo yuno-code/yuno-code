@@ -1,3 +1,5 @@
+Recently left FAANG job, no longer under intellectual property agreement, this is my github.
+
 ## Tech Stack
 
 ### Frontend
